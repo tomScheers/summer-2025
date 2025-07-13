@@ -15,8 +15,6 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 
 ### Main goals, high priority
 
----
-
 #### Build Tools
 - [ ] Master `make`
 - [ ] Master `cmake`
@@ -55,11 +53,7 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 - [ ] Understand symbol visibility and `nm`, `ar`, `ld`
 - [ ] Learn runtime loading with `dlopen()` / `dlsym()`
 
----
-
 ### Secondairy, medium priority
-
----
 
 #### Other build systems
 - [ ] Master `meson` + `ninja`
@@ -74,15 +68,15 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 ---
 
 #### More testing frameworks
-- [  ] `check`
-- [  ] `unity`
+- [ ] `check`
+- [ ] `unity`
 
 ---
 
 #### DSA
-- [  ] Complete 10 more easy `leetcode` problems (start at 10 solved)
-- [  ] Complete 10 more medium `leetcode` problems (start at 10 solved)
-- [  ] Complete 6 more hard `leetcode` problems (start at 4 solved)
+- [ ] Complete 10 more easy `leetcode` problems (start at 10 solved)
+- [ ] Complete 10 more medium `leetcode` problems (start at 10 solved)
+- [ ] Complete 6 more hard `leetcode` problems (start at 4 solved)
 
 ---
 
@@ -91,50 +85,46 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 - [ ] Optimize memory layout and loop performance in a real benchmark
 - [ ] Measure and improve compile times for larger projects
 
----
-
 ### Tertiary, low priority
 
----
-
 #### Rust
-- [  ] Understand basic `Rust` syntax
-- [  ] Understanding borrow checker
-- [  ] Create a basic project using `Rust`
+- [ ] Understand basic `Rust` syntax
+- [ ] Understanding borrow checker
+- [ ] Create a basic project using `Rust`
 
 ---
 
 #### Java
-- [  ] Learn `Java`'s syntax
-- [  ] Create a basic project using `Java`
+- [ ] Learn `Java`'s syntax
+- [ ] Create a basic project using `Java`
 
 ---
 
 #### Self-hosting
-- [  ] Self-host my NAS
-- [  ] Self-host `searxng`
-- [  ] Reimplement home assistant
-- [  ] Self-host `Navidrome`
-- [  ] Setup a reverse proxy using `nginx`
-- [  ] Self-host `vaultwarden`
+- [ ] Self-host my NAS
+- [ ] Self-host `searxng`
+- [ ] Reimplement home assistant
+- [ ] Self-host `Navidrome`
+- [ ] Setup a reverse proxy using `nginx`
+- [ ] Self-host `vaultwarden`
 
 ---
 
 #### Computer internals
-- [  ] Learn some assembly
-- [  ] Install Arch Linux
+- [ ] Learn some assembly
+- [ ] Install Arch Linux
 
 
 ## Projects
 
 There's also a list of projects I wish to pursue in order to broaden my knowledge, these projects are purely C-focused
 
-- [  ] Unix Utility Clones (cat, grep, ls, wc, etfc..)
-- [  ] Custom malloc
-- [  ] DSA library (installable)
-- [  ] File compression tool
-- [  ] File encryption tool
-- [  ] Basic TCP chatroom on LAN
+- [ ] Unix Utility Clones (cat, grep, ls, wc, etfc..)
+- [ ] Custom malloc
+- [ ] DSA library (installable)
+- [ ] File compression tool
+- [ ] File encryption tool
+- [ ] Basic TCP chatroom on LAN
 
 ## Timeline
 Just a rough timeline to see what I'm up against for the coming weeks:
