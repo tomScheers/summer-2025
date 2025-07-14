@@ -24,8 +24,8 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 ---
 
 #### Testing Frameworks
-- [ ] `cmocka`
-- [ ] `criterion`
+- [ ] `check`
+- [ ] `unity`
 
 ---
 
@@ -68,8 +68,8 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 ---
 
 #### More testing frameworks
-- [ ] `check`
-- [ ] `unity`
+- [ ] `criterion`
+- [ ] `cmocka`
 
 ---
 
