@@ -16,7 +16,7 @@ Now I'll create a basic layout of all of my goals for the coming season. This do
 ### Main goals, high priority
 
 #### Build Tools
-- [ ] Master `make`
+- [x] Master `make`
 - [ ] Master `cmake`
 - [ ] Create multi-target build setups (executables + libraries)
 - [ ] Understand `compile_commands.json` and IDE integrations
